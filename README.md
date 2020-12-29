@@ -13,5 +13,5 @@
 
 <img src="https://github.com/falconbow/lucky-auth-app/blob/main/readme-assets/Screen%20Recording%202020-12-29%20at%2016.30.24.gif" width="250" height="500"/>
 
-•При следующем входе пользователю будет предложено зайти по пин-коду или биометрии, логин/пароль уже не требуется
+•При следующем входе пользователю будет предложено зайти по пин-коду или биометрии
 <img src="https://github.com/falconbow/lucky-auth-app/blob/main/readme-assets/Screen%20Recording%202020-12-29%20at%2016.34.15.gif" width="250" height="500"/>
