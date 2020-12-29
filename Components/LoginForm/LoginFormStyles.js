@@ -12,9 +12,14 @@ export const styles = StyleSheet.create({
     borderColor: 'white',
     color: 'white',
   },
+  inputFormOnError: {
+    borderColor: 'crimson',
+    color: 'crimson',
+  },
   container: {
     flex: 1,
     backgroundColor: 'black',
+    color: 'white',
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -23,5 +28,6 @@ export const styles = StyleSheet.create({
     backgroundColor: 'black',
     alignItems: 'center',
     justifyContent: 'center',
-  }
+  },
+
 });

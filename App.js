@@ -17,6 +17,8 @@ import {EnterPinScreen} from './Components/EnterPinScreen';
 import {ContentScreen} from './Components/ContentScreen';
 import {hasUserSetPinCode} from '@haskkor/react-native-pincode';
 import {deleteUserPinCode} from '@haskkor/react-native-pincode';
+import { LogBox } from 'react-native';
+LogBox.ignoreLogs(['Sending...']);
 
 const Stack = createStackNavigator();
 
@@ -116,15 +118,6 @@ export default App = () => {
             />
           </Stack.Navigator>
         </NavigationContainer>
-        // <Button
-        //   titleStyle={{color: 'white'}}
-        //   buttonStyle={{marginTop: 200}}
-        //   title="Delete pin"
-        //   onPress={() => {
-        //     deleteUserPinCode().then(() => setUserHasPincode(false));
-        //     console.log('here');
-        //   }}
-        // />
       );
     }
   } else {

@@ -40,7 +40,7 @@ export const LoginForm = ({navigation}, homeScreen = view) => {
           <Input
             placeholder="Enter your login:"
             placeholderTextColor="crimson"
-            inputStyle={styles.inputForm}
+            inputStyle={styles.inputFormOnError}
             name="login"
             onChangeText={(text) => {
               setLoginInput(text);
@@ -53,7 +53,7 @@ export const LoginForm = ({navigation}, homeScreen = view) => {
               setPasswordInput(text);
             }}
             placeholderTextColor="crimson"
-            inputStyle={styles.inputForm}
+            inputStyle={styles.inputFormOnError}
             name="password"
           />
         </>

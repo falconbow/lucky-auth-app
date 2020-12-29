@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/randomproject.iml" filepath="$PROJECT_DIR$/.idea/modules/randomproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1826974944/randomproject.@react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1826974944/randomproject.@react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/randomproject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/randomproject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1826974944/randomproject.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1826974944/randomproject.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1950310948/randomproject.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1950310948/randomproject.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2126302134/randomproject.react-native-fingerprint-scanner.iml" filepath="$PROJECT_DIR$/.idea/modules/-2126302134/randomproject.react-native-fingerprint-scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-936589701/randomproject.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-936589701/randomproject.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1794603117/randomproject.react-native-keychain.iml" filepath="$PROJECT_DIR$/.idea/modules/1794603117/randomproject.react-native-keychain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1763169244/randomproject.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1763169244/randomproject.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1400788676/randomproject.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1400788676/randomproject.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1259511828/randomproject.react-native-touch-id.iml" filepath="$PROJECT_DIR$/.idea/modules/1259511828/randomproject.react-native-touch-id.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/100948795/randomproject.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/100948795/randomproject.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
